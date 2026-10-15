@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "assets": {
+    "OSM.json": {
+      "path": "data/OSM.7fb8e0062bc6.bin.br",
+      "hash": "7fb8e0062bc6",
+      "size": 12200777,
+      "metadata": {
+        "dataFetchDate": "2026-10-15",
+        "wayDefaultsEncoding": "omit-empty-v1"
+      }
+    },
+    "trains.json": {
+      "path": "data/trains.fae7af479e73.json.br",
+      "hash": "fae7af479e73",
+      "size": 1570288,
+      "metadata": {
+        "dataFetchDate": "2026-10-14",
+        "trainScheduleDate": "2026-10-14",
+        "routePathEncoding": "id-kind-v1",
+        "routeSegmentEncoding": "path-distance-dictionary-v1"
+      }
+    }
+  }
+}
